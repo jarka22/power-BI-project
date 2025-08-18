@@ -1,4 +1,4 @@
-**#Klimatologické charakteristiky vybraných stanic Moravskoslezského kraje v letech 1990 až 2024**
+**Klimatologické charakteristiky vybraných stanic Moravskoslezského kraje v letech 1990 až 2024**
 
 Projekt se zaměřuje na analýzu klimatologických charakteristik Moravskoslezského kraje za posledních 25 let. Hlavním cílem je vizualizace vývoje průměrných měsíčních a ročních teplot vzduchu a dále průměrných měsíčních a ročních úhrnů srážek. Do výběru byly vybrány stanice Lysá hora (ORP Frýdek-Místek), Červená (ORP Vítkov) a Opava (ORP Opava), každá reprezentující jiné klimatické poměry vzhledem k odlišné nadmořské výšce. Výsledky slouží k identifikaci trendů v klimatu regionu a mohou sloužit jako podklad pro zpracování dalších studií.
 
