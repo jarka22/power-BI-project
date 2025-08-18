@@ -18,5 +18,5 @@ Zdroj obrázků meteorologických stanic:
 
 
 **Výsledky:**
-Co se týká průměrných ročních teplot vzduchu, byl potvrzen lineární vzestup hodnot u všech stanic. To znamená, že za posledních 25 let se průměrná teplota vzduchu zvyšuje. U srážek nebyl prokázán žádný trend, avšak v souvislosti s rostoucí teplotou vzduchu může v regionu docházet k výskytu sucha, a to hydrologického, půdního, vegetačního, či zemědělského. Je velmi pravděpodobné, že tento trend bude i nadále pokračovat a sucho se bude i nadále prohlubovat.
+Co se týká průměrných ročních teplot vzduchu, byl potvrzen lineární vzestup hodnot u všech stanic. To znamená, že za posledních 25 let se průměrná teplota vzduchu zvyšuje. U srážek nebyl prokázán žádný trend, avšak v souvislosti s rostoucí teplotou vzduchu může v regionu docházet k většímu výparu a tím k výskytu sucha, a to hydrologického, půdního, vegetačního, či zemědělského. Je velmi pravděpodobné, že tento trend bude i nadále pokračovat a sucho se bude i nadále prohlubovat.
 
